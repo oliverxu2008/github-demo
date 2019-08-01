@@ -2,6 +2,3 @@ Test Git Quick Start demo
 
 # Sample Text
 Add sample text here for git practice
-
-# Contributor
-Add sample text here for Contributor
